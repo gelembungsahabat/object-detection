@@ -1,0 +1,26 @@
+<annotation>
+	<folder>foto gawang</folder>
+	<filename>IMG_20180927_220543.resized.jpg</filename>
+	<path>/home/fikri/foto gawang/IMG_20180927_220543.resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gawang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>23</ymin>
+			<xmax>157</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+</annotation>

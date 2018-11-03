@@ -1,0 +1,26 @@
+<annotation>
+	<folder>foto gawang 2</folder>
+	<filename>IMG_20181030_215213.resized.jpg</filename>
+	<path>/home/fikri/foto gawang/foto gawang 2/IMG_20181030_215213.resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gawang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>55</ymin>
+			<xmax>123</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+</annotation>
