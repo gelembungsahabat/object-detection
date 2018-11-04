@@ -20,12 +20,13 @@ configuring the training job:
 
 1) A single pipeline_pb2.TrainEvalPipelineConfig configuration file
 can be specified by --pipeline_config_path.
-
+    
 Example usage:
-    ./train \
+    python3 train.py \
         --logtostderr \
-        --train_dir=path/to/train_dir \
-        --pipeline_config_path=pipeline_config.pbtxt
+        --train_dir=training \
+        --pipeline_config_path=training/pipeline.config
+
 
 2) Three configuration files can be provided: a model_pb2.DetectionModel
 configuration file to define what type of DetectionModel is being trained, an
